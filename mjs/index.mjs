@@ -1,5 +1,5 @@
 // .js -> por defecto utiliza CommonJS
-// . mjs -> para utilizar ES Modules
+// .mjs -> para utilizar ES Modules
 // .cjs -> para utilizar CommonJS
 
 import { suma, resta, multiplicacion } from './suma.mjs'; // Importar el módulo suma
